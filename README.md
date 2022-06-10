@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @APe1ican
 - 👀 I’m interested in rhythm games such as Osu!
-- 🌱 I’m currently learning how to use Unity(3D)
+- 🌱 I’m currently learning how to use Unity(3D) and C++
 - 💞️ I’m looking to collaborate on nothing right now, focusing on self growth right now.
 - 📫 How to reach me -> *insert discord here*
 
